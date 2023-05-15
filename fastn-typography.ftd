@@ -1,14 +1,14 @@
 -- import: fifthtry.github.io/package-doc/doc as pd
 -- import: fifthtry.github.io/package-doc/forest-theme as ds
 -- import: fifthtry.github.io/package-doc/footer
--- import: fastn-community.github.io/source-code-pro-font-typography
+-- import: fastn-community.github.io/source-code-pro-typography
 
 
 
 
 -- ds.page: 
 show-footer: true
-site-name: `source-code-pro-font-typography`
+site-name: `source-code-pro-typography`
 
 -- ds.page.footer:
 
@@ -16,14 +16,14 @@ site-name: `source-code-pro-font-typography`
 
 -- end: ds.page.footer
 
--- pd.package: source-code-pro-font-typography
-name: fastn-community.github.io/source-code-pro-font-typography
+-- pd.package: source-code-pro-typography
+name: fastn-community.github.io/source-code-pro-typography
 
-Below are our default fastn `inherited` font types of source-code-pro-font-typography.
+Below are our default fastn `inherited` font types of source-code-pro-typography.
 
 
 -- display-type:
-types: $source-code-pro-font-typography.types
+types: $source-code-pro-typography.types
 
 
 -- end: ds.page
